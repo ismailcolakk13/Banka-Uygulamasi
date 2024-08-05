@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="proje/Proje.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/proje/açıklama.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=proje/src&lt;org.eclipse.wb.swing{Login.java[Login" manifestLocation="/proje/manifest" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/proje/manifest"/>
+        <file path="/proje/jgoodies-forms-1.8.0-sources.jar"/>
+        <file path="/proje/.project"/>
+        <file path="/proje/.classpath"/>
+        <file path="/proje/miglayout-src.zip"/>
+        <file path="/proje/açıklama.jardesc"/>
+        <file path="/proje/jgoodies-common-1.8.0-sources.jar"/>
+        <javaElement handleIdentifier="=proje/src"/>
+    </selectedElements>
+</jardesc>
